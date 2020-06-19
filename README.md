@@ -1,0 +1,2 @@
+# responsibility
+homework things
